@@ -1,0 +1,43 @@
+
+{
+  "building_name": "Residential Building A",
+  "inspection_date": "2025-06-15",
+  "findings": [
+    {
+      "component": "Ceiling Panel",
+      "location": "First Floor, Room 101",
+      "material": "Fiber Cement",
+      "substance": "Asbestos",
+      "concentration": 2.5,
+      "unit": "%",
+      "sample_id": "AS-101",
+      "result": "positive",
+      "page_number": 1,
+      "evidence_text": "Hazardous Substance: Asbestos"
+    },
+    {
+      "component": "Wall Paint",
+      "location": "Ground Floor, Room 005",
+      "material": "Paint Coating",
+      "substance": "Lead",
+      "concentration": 1200.0,
+      "unit": "mg/kg",
+      "sample_id": "PB-201",
+      "result": "positive",
+      "page_number": 2,
+      "evidence_text": "Hazardous Substance: Lead"
+    },
+    {
+      "component": "Pipe Insulation",
+      "location": "Basement",
+      "material": "Insulation",
+      "substance": "Asbestos",
+      "concentration": 4.2,
+      "unit": "%",
+      "sample_id": "AS-102",
+      "result": "positive",
+      "page_number": 3,
+      "evidence_text": "Hazardous Substance: Asbestos"
+    }
+  ]
+}

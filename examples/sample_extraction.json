@@ -1,0 +1,42 @@
+{
+  "building_name": "Residential Building A",
+  "inspection_date": "2025-06-15",
+  "findings": [
+    {
+      "component": "Ceiling Panel",
+      "location": "First Floor, Room 101",
+      "material": "Fiber Cement",
+      "substance": "Asbestos",
+      "concentration": 2.5,
+      "unit": "%",
+      "sample_id": "AS-101",
+      "result": "positive",
+      "page_number": 1,
+      "evidence_text": "Location: First Floor, Room 101\nBuilding Component: Ceiling Panel\nMaterial: Fiber Cement\nHazardous Substance: Asbestos\nSample ID: AS-101\nConcentration: 2.5%\nLaboratory Result: Positive"
+    },
+    {
+      "component": "Wall Paint",
+      "location": "Ground Floor, Room 005",
+      "material": "Paint Coating",
+      "substance": "Lead",
+      "concentration": 1200.0,
+      "unit": "mg/kg",
+      "sample_id": "PB-201",
+      "result": "positive",
+      "page_number": 2,
+      "evidence_text": "Location: Ground Floor, Room 005\nBuilding Component: Wall Paint\nMaterial: Paint Coating\nHazardous Substance: Lead\nSample ID: PB-201\nConcentration: 1200 mg/kg\nLaboratory Result: Positive"
+    },
+    {
+      "component": "Pipe Insulation",
+      "location": "Basement",
+      "material": "Insulation",
+      "substance": "Asbestos",
+      "concentration": 4.2,
+      "unit": "%",
+      "sample_id": "AS-102",
+      "result": "positive",
+      "page_number": 3,
+      "evidence_text": "Location: Basement\nBuilding Component: Pipe Insulation\nMaterial: Insulation\nHazardous Substance: Asbestos\nSample ID: AS-102\nConcentration: 4.2%\nLaboratory Result: Positive"
+    }
+  ]
+}
